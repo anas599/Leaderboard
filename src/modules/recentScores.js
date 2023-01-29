@@ -25,15 +25,20 @@ export default function displayRecent() {
     .map((x) => `${x.name} : ${x.score}<br>`)
     .join('');
   const scBoard = document.createElement('div');
+  const topHead = document.createElement('div');
+  topHead.classList.add('topHead');
+
   scBoard.classList.add('refreshSec');
   const h2 = document.createElement('h2');
-  h2.innerHTML = 'Recent Scores java';
-  scBoard.appendChild(h2);
+  h2.innerHTML = 'Recent Scores';
+  topHead.appendChild(h2);
   const refreshButton = document.createElement('button');
   refreshButton.innerHTML = 'Refresh';
-  scBoard.appendChild(refreshButton);
+  topHead.appendChild(refreshButton);
+  scBoard.appendChild(topHead);
+
   const scoreDiv = document.createElement('div');
-  scoreDiv.classList.add = 'scoreName';
+  scoreDiv.classList.add('scoreName');
   scoreDiv.innerHTML = scoreBoardVar;
   scBoard.appendChild(scoreDiv);
   return scBoard;
