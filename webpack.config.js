@@ -1,7 +1,6 @@
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
-// eslint-disable-next-line import/no-extraneous-dependencies
-const WebpackLighthousePlugin = require('webpack-lighthouse-plugin');
+// const WebpackLighthousePlugin = require('webpack-lighthouse-plugin');
 
 module.exports = {
   mode: 'development',
@@ -9,9 +8,9 @@ module.exports = {
     index: './src/index.js',
   },
   plugins: [
-    new WebpackLighthousePlugin({
-      url: 'http://localhost:8080/webpack-dev-server/',
-    }),
+    // new WebpackLighthousePlugin({
+    // url: 'http://localhost:9001',
+    // }),
     new HtmlWebpackPlugin({
       template: './src/index.html',
     }),
