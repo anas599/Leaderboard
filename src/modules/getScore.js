@@ -1,5 +1,5 @@
 const scoresBoard = fetch(
-  'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/kGMkc6wAETO348Fp0yCK/scores/',
+  'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/jX9Vp4k5DcbJCu0Dl3vn/scores/',
   {
     method: 'GET',
   },
