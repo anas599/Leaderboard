@@ -41,18 +41,6 @@ h2 {
   align-items: center;
 }
 
-/* button {
-  border-radius: 10px;
-  border: none;
-  width: 80px;
-  height: 30px;
-  margin: 5px;
-  background: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgba(0, 0, 0, 0.15) 100%), radial-gradient(at top center, rgb(255, 255, 255) 0%, rgba(0, 0, 0, 0.40) 120%) #989898;
-  filter: drop-shadow(5px 3px 4px #000);
-}
-button:hover{
-  color: rgb(0, 0, 0);
-background: radial-gradient(circle at 18.7% 37.8%, rgb(250, 250, 250) 0%, rgb(225, 234, 238) 90%);} */
 .refreshSec {
   display: flex;
   flex-direction: column;
@@ -63,7 +51,7 @@ background: radial-gradient(circle at 18.7% 37.8%, rgb(250, 250, 250) 0%, rgb(22
   align-content: center;
   justify-content: center;
   align-items: center;
-  height: 200px;
+  height: min-content;
   box-shadow: 10px 10px 14px 0 rgba(0, 0, 0, 0.75);
   -webkit-box-shadow: 10px 10px 14px 0 rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 10px 10px 14px 0 rgba(0, 0, 0, 0.75);
