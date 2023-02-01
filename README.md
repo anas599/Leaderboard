@@ -21,7 +21,7 @@ Video presenting the features the Project</a>
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - 🚀<a href="https://anas599.github.io/To-Do-List/webpack-demo/dist/">Live Demo</a>
+  - 🚀<a href="https://anas599.github.io/Leaderboard/dist/">Live Demo</a>
   - [💻 Getting Started](#getting-started)
   - [Setup1](#setup)
   - [Prerequisites](#prerequisites)
@@ -81,7 +81,7 @@ the website was built using WebPack
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://anas599.github.io/To-Do-List/webpack-demo/dist/)
+- [Live Demo Link](https://github.com/anas599/Leaderboard)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
