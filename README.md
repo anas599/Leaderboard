@@ -157,7 +157,7 @@ Github Pages or any hosting platforms
 
 - [ ] **[The Ability to add photo]**
 - [ ] **[The user can share a link of current list]**
-- [ ] **[Adding Styling]**
+- [ ] **[Sound effects]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
