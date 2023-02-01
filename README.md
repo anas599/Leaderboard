@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="src/Assets/leaderBoardIcon.png" alt="logo" width="140"  height="auto" />
+  <img src="./src/Assets/LeadeBoardIcon.svg" alt="logo" width="140"  height="auto" />
   <br/>
   <h3><b>Leaderboard</b></h3>
 
@@ -21,7 +21,7 @@ Video presenting the features the Project</a>
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - 🚀<a href="https://anas599.github.io/To-Do-List/webpack-demo/dist/">Live Demo</a>
+  - 🚀<a href="https://anas599.github.io/Leaderboard/dist/">Live Demo</a>
   - [💻 Getting Started](#getting-started)
   - [Setup1](#setup)
   - [Prerequisites](#prerequisites)
@@ -81,7 +81,7 @@ the website was built using WebPack
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://anas599.github.io/To-Do-List/webpack-demo/dist/)
+- [Live Demo Link](https://github.com/anas599/Leaderboard)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -157,7 +157,7 @@ Github Pages or any hosting platforms
 
 - [ ] **[The Ability to add photo]**
 - [ ] **[The user can share a link of current list]**
-- [ ] **[Adding Styling]**
+- [ ] **[Sound effects]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -199,7 +199,5 @@ Feel free to check the [issues page](../../issues/).
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./MIT.md) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
