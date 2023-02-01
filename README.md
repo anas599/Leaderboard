@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="src/Assets/leaderBoardIcon.png" alt="logo" width="140"  height="auto" />
+  <img src="./src/Assets/LeadeBoardIcon.svg" alt="logo" width="140"  height="auto" />
   <br/>
   <h3><b>Leaderboard</b></h3>
 
